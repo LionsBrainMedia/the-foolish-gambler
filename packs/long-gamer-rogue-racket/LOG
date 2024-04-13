@@ -1,1 +1,5 @@
-2024/04/13-12:35:37.647 3bbc Delete type=3 #1
+2024/04/13-14:18:52.060 9dc Recovering log #3
+2024/04/13-14:18:52.060 9dc Level-0 table #5: started
+2024/04/13-14:18:52.064 9dc Level-0 table #5: 9542 bytes OK
+2024/04/13-14:18:52.070 9dc Delete type=0 #3
+2024/04/13-14:18:52.070 9dc Delete type=3 #2
