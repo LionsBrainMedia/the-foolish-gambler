@@ -1,0 +1,61 @@
+{
+  "id": "the-foolish-gambler",
+  "title": "The Foolish Gambler",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "W. Brian Lane",
+      "flags": {}
+    },
+    {
+      "name": "A. J. Ritchie",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "foolish-gambler-archetype",
+      "label": "Foolish Gambler Archetype",
+      "path": "packs/foolish-gambler-archetype",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "long-gamer-rogue-racket",
+      "label": "Long Gamer Rogue Racket",
+      "path": "packs/long-gamer-rogue-racket",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    },
+    {
+      "name": "high-roller-swashbuckler-style",
+      "label": "High Roller Swashbuckler Style",
+      "path": "packs/high-roller-swashbuckler-style",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ],
+"url": "https://github.com/LionsBrainMedia/risen-herald",
+"manifest": "https://raw.githubusercontent.com/LionsBrainMedia/risen-herald/main/module.json",
+"download": "https://github.com/LionsBrainMedia/risen-herald/archive/refs/heads/main.zip"
+
+}
