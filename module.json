@@ -1,10 +1,10 @@
 {
   "id": "the-foolish-gambler",
   "title": "The Foolish Gambler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "authors": [
     {
